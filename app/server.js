@@ -12,7 +12,7 @@ var yMax = fb.size().height;
 var radius = yMax / 2 - 10;
 //var imageFilePath = __dirname + "/raspberry-pi-icon.png";
 //var imageFilePath = __dirname + "/raj2pic2.png";
-var imageFilePath = __dirname + "/rsz_img_8112.jpg"
+var imageFilePath = __dirname + "/rsz_img_8112.png"
 var RA = 180 / Math.PI;
 
 var drawDial = function() {
